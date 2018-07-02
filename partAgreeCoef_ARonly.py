@@ -1,7 +1,6 @@
 #! C:\Python27\python
 
 import numpy as np
-#from scipy.sparse import csr_matrix
 import scipy.sparse as ss
 
 # the following function is used to calculate the 
